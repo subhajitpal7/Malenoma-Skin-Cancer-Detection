@@ -61,13 +61,11 @@
 > 2. Model overfitting and underfitting issue is resolved now.
 > 3. We have achieved better model accuracy with maximum of 87% training accuracy and 78% of validation accuracy.
 > 4. Also, overall loss is reduced it is around 0.3 for training and 0.6 for validation.
-<img src="/images/performance_30.png" alt="Image" title="Model Performance 20 Epoch">
+<img src="/images/30Epoch.png" alt="Image" title="Model Performance 20 Epoch">
 - Model performance with 50 epochs : 
 > 1. Overall model accuracy increases, now we have 90% training accuracy and 80% validation accuracy.
 > 2. Model performs better with higher iteration value that is high epoch.
 > 3. Overall loss is also reduced to for training 0.3 and validation 0.5.
-<img src="/images/performance_50.png" alt="Image" title="Model Performance 30 Epoch">
-- We achieved the better result using the same model, but the above graph shows some high spike in certain epoch and very unstability at some point which shows drop in accuracy and increase is loss. This situation can be handled with adding more samples in to the data and perform some more data engineering steps.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
